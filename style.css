@@ -8,6 +8,10 @@ img {
   max-width: 100%;
   height: 200px;
 }
+.feature-content img {
+  margin-bottom: 15px;
+  border-radius: 6px;
+}
 .navbar-inverse {
   background-color: #383E4C;
 }
