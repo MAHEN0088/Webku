@@ -11,6 +11,9 @@ img {
 .feature-content img {
   margin-bottom: 15px;
   border-radius: 6px;
+  height: auto; /* opsional, supaya tidak dipaksa 200px */
+  max-height: 200px; /* batasi tinggi maksimal */
+}
 }
 .navbar-inverse {
   background-color: #383E4C;
